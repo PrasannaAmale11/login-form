@@ -1,0 +1,185 @@
+.container {
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+.login_page{
+width: 30%;
+/* height: 926px; */
+}
+.header{
+    display: block;
+}
+.logo-react{
+    width: 198px;
+    height: 198px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+    cursor: pointer;
+}
+.header-title{
+    width: 318px;
+    height: 52px;
+    text-align: center;
+    font: normal 14px/18px 'Roboto';
+    letter-spacing: 0px;
+    color: #1A1A1A;
+    opacity: 1;
+    
+}
+.header-title span{
+    text-align: center;
+    font: normal normal 14px/18px 'Roboto';
+    letter-spacing: 0px;
+    color: #1A1A1A;
+    opacity: 1;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.form div {
+    width: 50%;
+    text-align: center;
+    padding: 1rem 0;
+}
+.form_active {
+    border-bottom: 3px solid rgb(231, 10, 137);
+    font-weight: 900;
+}
+
+form button {
+    background-color: rgb(231, 10, 137);
+    border-radius: 1.5rem;
+    border: none;
+    color: white;
+    padding: 10px 0;
+    font-weight: 900;
+    margin-top: 1.5rem;
+    cursor: pointer;
+    font:  normal normal bold 16px/17px 'Roboto';
+}
+button:hover{
+    color: #1A1A1A;
+}
+
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+}
+  
+form input {
+    padding: 10px 0;
+    border-radius: 36px;
+    background: #FFFFFF4D 0% 0% no-repeat padding-box;
+    margin-bottom: 20px;
+    border: 1px solid rgb(116, 116, 116);
+    padding-left: 1.5rem;
+    /* width: 300px; */
+    height: 38px;
+}
+
+.forgot_pass{
+text-align: right;
+font: normal normal normal 14px/17px 'Roboto';
+letter-spacing: 0px;
+color: #E70B89;
+opacity: 1;
+cursor: pointer;
+}
+.login_with{
+    text-align: center;
+font: normal normal normal 12px/17px 'Roboto';
+letter-spacing: 0px;
+color: #9D9D9D;
+opacity: 1;
+}
+
+/* ---------------------------Login-with-Icons----------- */
+.icon {
+    width: 1.8rem; 
+    height: 1.8rem;
+    border-radius: 50%;
+    border: 1px solid #E6E6E6;
+    padding: 12px;
+    cursor: pointer;
+}
+.icon:hover{
+    background-color:   #f6e5ef;
+    color: #1A1A1A;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+}
+.icon img{
+    width: 27px;
+    height: 27px;
+}
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.create-acc{
+    text-align: center;
+font: normal normal normal 12px/17px 'Roboto';
+letter-spacing: 0px;
+color: #1A1A1A;
+margin-top: 1rem;
+}
+.create-new-acc{
+    text-align: center;
+font: normal normal normal 12px/17px 'Roboto';
+letter-spacing: 0px;
+color: #E70B89;
+cursor: pointer;
+}
+.terms{
+    text-align: center;
+font: normal normal normal 12px/17px 'Roboto';
+letter-spacing: 0px;
+color: #1A1A1A;
+}
+.terms_condition{
+    text-align: center;
+text-decoration: underline;
+font: normal normal normal 12px/17px 'Roboto';
+letter-spacing: 0px;
+color: #E70B89;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+/* ------------------Media Quries------------------- */
+@media  screen and (max-width: 600px) {
+    .login_page {
+      width: 80%;
+    }
+  }
+
+  
+  @media  screen and (max-width: 900px) {
+    .login_page  {
+      width: 55%;
+    }
+  }
+  @media  screen and (max-width: 300px) {
+    .login_page{
+      width: 90%;
+    }
+}
