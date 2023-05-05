@@ -6,3 +6,5 @@ Here's live link: https://login-form-azure.vercel.app/
 
 <h3>Technologies Used </h3>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"  width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  width="48" height="48"/>
