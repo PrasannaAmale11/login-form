@@ -12,5 +12,5 @@ Here's live link: https://login-form-azure.vercel.app/
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  width="48" height="48"/></li>
 </ul>
 
-<h3>Preview</h3>
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/110029115/236688226-fbe4dde0-1c41-4bd6-9bd9-4b540bbd9a4e.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/110029115/236688289-816a598e-539a-4030-b31d-a9ae9f11bb4d.gif)
+
