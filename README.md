@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Here's live link: https://login-form-azure.vercel.app/
 
 <h3>Technologies Used </h3>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"  width="48" height="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  width="48" height="48"/>
+<ul>
+<li> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></li> <li> <img src="https://img.icons8.com/color/48/000000/css3.png"/></li>  
+<li> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </li> 
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"  width="48" height="48"/> </li>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  width="48" height="48"/></li>
+</ul>
+
+<h3>Preview</h3>
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/110029115/236688226-fbe4dde0-1c41-4bd6-9bd9-4b540bbd9a4e.gif)
